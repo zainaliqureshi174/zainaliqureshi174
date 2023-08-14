@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/zainaliqureshi174/zainaliqureshi174/blob/main/MyGithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Zain Ali</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Islamabad,Pakistan</h3>
