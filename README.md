@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Ali</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Islamabad,Pakistan</h3>
 
-<p align="right" alt="coding" src="![image](https://github.com/zainaliqureshi174/zainaliqureshi174/assets/111534311/5d23c1e7-5bb6-4e08-a107-63a2ab6cfcc1)
+<p align="right" alt="coding" width="400"src="![image](https://github.com/zainaliqureshi174/zainaliqureshi174/assets/111534311/6ea9e0df-1ef8-4ba2-b182-e317cdd69e1f)
 "></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainaliqureshi174&label=Profile%20views&color=0e75b6&style=flat" alt="zainaliqureshi174" /> </p>
