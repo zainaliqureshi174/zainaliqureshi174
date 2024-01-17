@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Structures Algorithms**
 
-- 🌱 I’m currently learning **Programming for Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **quraishizain500@gmail.com**
 
