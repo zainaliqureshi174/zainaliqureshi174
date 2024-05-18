@@ -7,11 +7,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainaliqureshi174&label=Profile%20views&color=0e75b6&style=flat" alt="zainaliqureshi174" /> </p>
 
-- 🔭 I’m currently working on **Data Structures Algorithms**
+I’m currently working on:
+- **Data Structures Algorithms**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- **Artificial Intelligence**
 
-- 📫 How to reach me **quraishizain500@gmail.com**
+- **Web Automations**
+
+- **Machine Learning**
+
+- **Image Processing**
+
+- **Natural Language Processing (NLP)**
+
+- **Audio Processing**
+
+- **Deep Learning**
+
+- 📫 How to reach me **quraishizain500@gmail.com** , **quraishizain50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
