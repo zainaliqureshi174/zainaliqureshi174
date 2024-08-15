@@ -16,6 +16,8 @@ I’m currently working on:
 
 - **Machine Learning**
 
+- **Knowledge Representation & Reasoning**
+
 - **Image Processing**
 
 - **Natural Language Processing (NLP)**
