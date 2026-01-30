@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainaliqureshi174&label=Profile%20views&color=0e75b6&style=flat" alt="zainaliqureshi174" /> </p>
 
 I’m currently working on:
-- **Data Structures Algorithms**
+- **Agentic AI**
 
-- **Artificial Intelligence**
+- **AGenerative AI**
 
 - **Web Automations**
 
 - **Machine Learning**
 
-- **Knowledge Representation & Reasoning**
+- **Computer Vision**
 
 - **Image Processing**
 
