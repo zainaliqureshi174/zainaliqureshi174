@@ -10,7 +10,7 @@
 I’m currently working on:
 - **Agentic AI**
 
-- **AGenerative AI**
+- **Generative AI**
 
 - **Web Automations**
 
